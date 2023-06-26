@@ -13,7 +13,7 @@ Go to project folder
 
 ``cd ems_test``
 
-Install dependencies
+
 
 Create .env file from .env.example file. Then change the below variable value according to your value.
 
@@ -27,7 +27,7 @@ DB_PASSWORD=your_db_password
 QUEUE_CONNECTION=database
 
 ```
-
+Install dependencies
 
 ```bash
 composer install
